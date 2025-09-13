@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "img": "./image11.webp",
+    "title": "Texworld Apparel Sourcing Paris",
+    "date": "📍 Paris, France | 🗓 Sep 15–17, 2025",
+    "countdown": [18, 12, 30],
+    "description": "A dream for fashion lovers—this expo brings together global text designers, sustainable brands, and trend forecasters. Think soft fabrics, elegant cuts, and future-forward fashion"
+  },
+  {
+    "id": 2,
+    "img": "./image12.webp",
+    "title": "Art3f Paris – International Contemporary",
+    "date": "📍 Paris | 🗓 Sep 19–21, 2025",
+    "countdown": [20, 30, 15],
+    "description": "A visual feast of modern art, sculpture, and installations. Perfect for your Studio Ghibli-style inspirations—gentle palettes, expressive eyes, and poetic forms."
+  },
+  {
+    "id": 3,
+    "img": "./image13.jpeg",
+    "title": "China International Furniture Machinery",
+    "date": "📍 Shanghai, China | 🗓 Sep 9–12, 2025",
+    "countdown": [12, 30, 45],
+    "description": "A massive showcase of design innovation—ideal for anyone drawn to aesthetic harmony and interior elegance. From dreamy pastel furniture to sleek modern layouts."
+  }
+]

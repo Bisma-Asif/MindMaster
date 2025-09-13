@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Dr. Sarah Ahmed",
+        "designation": "Head of Events",
+        "department": "Computer Science",
+        "phone": "+92-21-1234-5678",
+        "email": "sarah.ahmed@aptech.edu.pk"
+    },
+    {
+        "name": "Prof. Muhammad Hassan",
+        "designation": "Faculty Coordinator",
+        "department": "Information Technology",
+        "phone": "+92-21-1234-5679",
+        "email": "m.hassan@aptech.edu.pk"
+    },
+    {
+        "name": "Dr. Fatima Khan",
+        "designation": "Event Supervisor",
+        "department": "Software Engineering",
+        "phone": "+92-21-1234-5680",
+        "email": "fatima.khan@aptech.edu.pk"
+    }
+]

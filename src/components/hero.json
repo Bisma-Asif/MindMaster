@@ -1,0 +1,21 @@
+{
+  "welcomeMessage": "Welcome to Campus Connect",
+  "welcomeSubtitle": "Stay Updated, Stay Involved!",
+  "slides": [
+    {
+      "title": "🎓 Academic Excellence",
+      "subtitle": "Join us in celebrating knowledge and innovation",
+      "image": "./1no.jpg"
+    },
+    {
+      "title": "🎭 Cultural Diversity",
+      "subtitle": "Experience the rich tapestry of campus culture",
+      "image": "./2no.jpg"
+    },
+    {
+      "title": "💡 Innovation Hub",
+      "subtitle": "Where creativity meets technology",
+      "image": "./3no.jpg"
+    }
+  ]
+}

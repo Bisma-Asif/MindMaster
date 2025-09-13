@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Ali Rahman",
+        "designation": "Student President",
+        "department": "Computer Science",
+        "phone": "+92-300-1234567",
+        "email": "ali.rahman@student.aptech.edu.pk"
+    },
+    {
+        "name": "Zara Malik",
+        "designation": "Events Secretary",
+        "department": "Information Technology",
+        "phone": "+92-300-1234568",
+        "email": "zara.malik@student.aptech.edu.pk"
+    },
+    {
+        "name": "Ahmed Raza",
+        "designation": "Cultural Coordinator",
+        "department": "Software Engineering",
+        "phone": "+92-300-1234569",
+        "email": "ahmed.raza@student.aptech.edu.pk"
+    },
+    {
+        "name": "Ayesha Siddiqui",
+        "designation": "Technical Coordinator",
+        "department": "Computer Science",
+        "phone": "+92-300-1234570",
+        "email": "ayesha.siddiqui@student.aptech.edu.pk"
+    }
+]
