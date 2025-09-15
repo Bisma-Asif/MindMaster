@@ -7,7 +7,7 @@
     "time": "09:00-17:00",
     "venue": "Main Auditorium",
     "description": "Join us for a comprehensive exploration of cutting-edge research in various scientific fields. Leading researchers will present their findings and discuss future directions in science and technology.",
-    "image": "./pic1.avif"
+    "image": "/pic1.avif"
   },
   {
     "id": 2,
@@ -17,7 +17,7 @@
     "time": "14:00-22:00",
     "venue": "University Grounds",
     "description": "Experience the rich diversity of our campus community through traditional performances, international food stalls, and interactive cultural exhibitions from around the world.",
-    "image": "./pic2.webp"
+    "image": "/pic2.webp"
   },
   {
     "id": 3,
@@ -27,7 +27,7 @@
     "time": "18:00-21:00",
     "venue": "Sports Complex",
     "description": "Watch the most exciting basketball match of the season as our top teams compete for the championship title. Free entry for all students with ID.",
-    "image": "./pic3.avif"
+    "image": "/pic3.avif"
   },
   {
     "id": 4,
@@ -37,7 +37,7 @@
     "time": "10:00-12:00",
     "venue": "Lab 302",
     "description": "Industry experts will discuss emerging trends in artificial intelligence and machine learning, with hands-on workshops and networking opportunities.",
-    "image": "./pic4.webp"
+    "image": "/pic4.webp"
   },
   {
     "id": 5,
@@ -47,7 +47,7 @@
     "time": "19:00-21:00",
     "venue": "Library Hall",
     "description": "An intimate evening of poetry readings by renowned poets and talented students. Come and enjoy the beauty of spoken word in a cozy atmosphere.",
-    "image": "./pic5.webp"
+    "image": "/pic5.webp"
   },
   {
     "id": 6,
@@ -57,7 +57,7 @@
     "time": "09:00-16:00",
     "venue": "Conference Room A",
     "description": "Learn essential research methodologies and statistical analysis techniques. This comprehensive workshop is designed for graduate students and junior researchers.",
-    "image": "./pic6.webp"
+    "image": "/pic6.webp"
   },
   {
     "id": 7,
@@ -67,7 +67,7 @@
     "time": "08:00-12:00",
     "venue": "Aquatic Center",
     "description": "Inter-university swimming competition featuring various categories for both beginners and advanced swimmers. Spectators welcome!",
-    "image": "./pic7.webp"
+    "image": "/pic7.webp"
   },
   {
     "id": 8,
@@ -77,6 +77,6 @@
     "time": "10:00-16:00",
     "venue": "Exhibition Hall",
     "description": "Meet with top employers, explore career opportunities, and network with industry professionals. Bring your resume and dress professionally.",
-    "image": "./pic8.avif"
+    "image": "/pic8.avif"
   }
 ]

@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "img": "./image11.webp",
+    "img": "/image11.webp",
     "title": "Texworld Apparel Sourcing Paris",
     "date": "📍 Paris, France | 🗓 Sep 15–17, 2025",
     "countdown": [18, 12, 30],
@@ -9,7 +9,7 @@
   },
   {
     "id": 2,
-    "img": "./image12.webp",
+    "img": "/image12.webp",
     "title": "Art3f Paris – International Contemporary",
     "date": "📍 Paris | 🗓 Sep 19–21, 2025",
     "countdown": [20, 30, 15],
@@ -17,7 +17,7 @@
   },
   {
     "id": 3,
-    "img": "./image13.jpeg",
+    "img": "/image13.jpeg",
     "title": "China International Furniture Machinery",
     "date": "📍 Shanghai, China | 🗓 Sep 9–12, 2025",
     "countdown": [12, 30, 45],
